@@ -1,0 +1,17 @@
+*{
+     font-family : “Zen Dots”, cursive;;
+}
+.menu{
+    width: 100px;
+    background-color: rgb(191, 188, 188);
+    text-align: center;
+}
+.aktif{
+    background-color: gray;
+    color: white;
+}
+.decorasyon{
+   text-decoration: line-through
+   ;
+}
+.
