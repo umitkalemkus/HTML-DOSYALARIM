@@ -14,4 +14,9 @@
    text-decoration: line-through
    ;
 }
-.
+#italik{
+    font-weight: 800;
+}
+#yeni{
+    background-color: brown;
+}
